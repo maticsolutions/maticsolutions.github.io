@@ -8,9 +8,8 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# (auto)Matic Solutions.
+# (Auto)Matic Solutions.
 
-Escape the Repetitive Routine!<br>
-Tired of Repeating Tasks on Your Computer?<br>
+Escape the Repetitive Routine! Tired of Repeating Tasks on Your Computer?<br>
 Let Us Automate Them for You!<br>
 Unlock Efficiency with Our Python-Powered Solutions

@@ -5,9 +5,8 @@ description: About
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Do you ever find yourself doing the same computer tasks over and over? We're here to help make it easier. Our company specializes in using Python scripts and automation to make everyday tasks like scheduling and administrative tasks much quicker and simpler. Our goal is to help people like you discover how much can be automated. Much like how the washing machine saves time when washing clothes, Python is amazing tool we can use to automate repetitive computer tasks. Say goodbye to repetitive, time-consuming digital chores, and say hello to efficiency and productivity. Let's automate your regular computer tasks together!
+
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
