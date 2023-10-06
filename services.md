@@ -10,3 +10,9 @@ intro_image_hide_on_mobile: true
 # Projects
 
 Here are some projects that have been benefited with automation:
+
+
+
+
+
+[Scheduling Automation](https://github.com/maticsolutions/Scheduling-from-Appointy)

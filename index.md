@@ -12,4 +12,4 @@ show_call_box: true
 
 Escape the Repetitive Routine! Tired of Repeating Tasks on Your Computer?<br>
 Let Us Automate Them for You!<br>
-Unlock Efficiency with Our Python-Powered Solutions
+Unlock Efficiency with Our Automated Solutions
