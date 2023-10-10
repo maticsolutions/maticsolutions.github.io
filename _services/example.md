@@ -1,17 +1,31 @@
 ---
-title: "Business Sales"
+title: "Example: Scheudling"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Scheudling Task
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+Scheduling is a task this client was spending upwards of three hours on. This client relied on a third-party scheduling company for managing their student schedules, but the system in place wasn't adaptable enough to meet their specific requirements. They sought a more user-friendly solution that could cater to their unique needs.
 
-# Objectives
+At Matic Solutions, we teamed up with the client to dissect the scheduling process and understand every step involved. We recognized the repetitive tasks and manual efforts that went into creating schedules every time. Then, we set out to revolutionize the process through automation.
+
+Our solution was simple yet powerful - an intuitive interface that replicated the exact steps the client took, but in a fraction of the time. The result? A significant reduction in scheduling hours, allowing the client to focus on more strategic aspects of their business.
+
+To demonstrate the impact of this automation, we've put together an example showcasing the initial data from the scheduling website and the final product.
+
+Here is an example of how the data appears in the third party scheduling website:
+![Accounting Services](/images/before.jpg)
+
+Upon a few clicks, here is the schedule that is made:
+
+![Accounting Services](/images/after.jpg)
+
+
+Here is the user friendly graphical interface 
+![Accounting Services](/images/image.png)
+
+<!-- # Objectives
 
 Financial accounting and financial reporting are often used as synonyms.
 
@@ -84,4 +98,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.  -->

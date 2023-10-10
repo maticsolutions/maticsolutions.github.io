@@ -1,12 +1,17 @@
 ---
-title: "Accounting"
+title: "Consultation"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Unlock understanding and efficiency with our extensive consulting sessions
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+At Matic Solutions, our approach to consulting sets us apart. We understand that every client is unique, with varying levels of familiarity and comfort when it comes to technology. That's why we take the time to meet you exactly where you are in your journey. Whether you're tech-savvy or not, our extensive consulting sessions are designed to uncover opportunities for automation that cater specifically to your needs. 
+
+What makes us truly exceptional is that, in addition to being automation experts, we're also teachers at heart. We not only identify areas in need for automation but communicate and explain these concepts in a way that's clear, comprehensible, and tailored to your understanding. With us, you'll not only automate your business but also gain the knowledge and confidence to navigate this digital landscape with ease. Your success is our priority, and we're here to guide you every step of the way.
+
+
+<!-- ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
@@ -81,4 +86,4 @@ The balance sheet is the financial statement showing a firm's assets, liabilitie
     - international
 - goodwill
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet. -->
