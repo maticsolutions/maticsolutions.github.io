@@ -25,6 +25,10 @@ Upon a few clicks, here is the schedule that is made:
 Here is the user friendly graphical interface 
 ![Accounting Services](/images/image.png)
 
+
+Here is the Github page with all of the information:
+
+[Scheduling Automation](https://github.com/maticsolutions/Scheduling-from-Appointy)
 <!-- # Objectives
 
 Financial accounting and financial reporting are often used as synonyms.
