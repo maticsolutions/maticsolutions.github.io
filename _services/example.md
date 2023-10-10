@@ -1,10 +1,10 @@
 ---
-title: "Example: Scheudling"
+title: "Example: Scheduling"
 date: 2019-01-28T15:15:26+10:00
 weight: 2
 ---
 
-Scheudling Task
+Scheduling Task
 
 Scheduling is a task this client was spending upwards of three hours on. This client relied on a third-party scheduling company for managing their student schedules, but the system in place wasn't adaptable enough to meet their specific requirements. They sought a more user-friendly solution that could cater to their unique needs.
 
